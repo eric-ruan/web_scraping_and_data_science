@@ -5,8 +5,8 @@ Nesse projeto eu consegui desenvolver minhas habilidades em Web Scraping e DataS
 Para desenvolver esse projeto eu criei 3 tópicos importantes para a entrega;
 
 ## 1 - Fazer uma busca em todas as páginas do site que continham o produto que eu queria.
-## 2 - Tratar os dados coletados removendo e alterando o que fosse necessário.
-## 3 - Criar um DataFrame com os dados coletados.
+## 2 - Criar um DataFrame com os dados coletados.
+## 3 - Tratar os dados coletados removendo e alterando o que fosse necessário. 
 
 Tópico número 1: Fazer uma busca em todas as páginas do site que continham o produto que eu queria.
 Primeiramente eu fiz a importação das bibliotecas:
